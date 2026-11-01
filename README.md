@@ -123,5 +123,5 @@ Gemini AI.
 **2. AI digunakan untuk membantu bagian apa?**
 AI digunakan untuk debuging, menggunakan AI untuk memahami,membantu penulisan code yang benar (seperti cek,error,typo) dan membantu menyusun file README.md ini agar mudah dibaca.
 
-**Bagian apa yang kalian ubah atau tentukan sendiri setelah mendapatkan hasil dari AI?**
+**3. Bagian apa yang kalian ubah atau tentukan sendiri setelah mendapatkan hasil dari AI?**
 bagian seperti menentukan kalau dataset terlalu besar, mengubah bagian AI yang merkomendasikan sesuatu yang belum pahami/pelajari, mengubah isi README.md dimana saya mengunakan AI hanya untuk membuat stuktur file yang mudah dibaca.
