@@ -1,8 +1,7 @@
 # Project: Semantic Search & Vector Database
 
 ## Informasi Project
-Halo! Ini adalah laporan tugas saya dalam mempelajari **Semantic Search** dan **Vector Database**. 
-- **Tema Dataset**: Game characters / game lore (Genshin Impact).
+- **Tema Dataset**: Game characters (Genshin Impact).
 - **Fokus Data**: Karakter dari region Sumeru dan Fontaine (26 Karakter).
 - **Tech Stack yang Digunakan**: FastAPI, Qdrant (In-Memory), dan Sentence-Transformers (all-MiniLM-L6-v2).
 
